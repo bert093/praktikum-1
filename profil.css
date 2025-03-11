@@ -1,5 +1,6 @@
+
 body {
-    background-color: #d3d3d3;
+    background-color: #e4dde9;
     width: 460px;
     text-align: center;
     padding: 20px;
@@ -9,6 +10,7 @@ body {
     
 h1 {
     font-size: 26px;
+    font-family: 'Roboto';
     margin: 20px;
 }
 
@@ -20,7 +22,24 @@ img {
     /* border: 5px solid #e1e1e1; */
 }
 
-.p-pertama {
+p {
+    font-family: 'Roboto';
     font-size: 18px;
-    font-weight: bold;
 }
+/* .p-pertama {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.p-kedua {
+    font-family: 'Roboto';
+}
+
+.p-ketiga {
+    font-family: 'Roboto';
+}
+
+.p-keempat {
+    font-family: 'Roboto';
+} */
